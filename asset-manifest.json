@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-workspaces-playground/static/css/main.a45bd7a1.chunk.css",
-    "main.js": "/react-workspaces-playground/static/js/main.da705f18.chunk.js",
-    "main.js.map": "/react-workspaces-playground/static/js/main.da705f18.chunk.js.map",
+    "main.css": "/react-workspaces-playground/static/css/main.dcfe4c72.chunk.css",
+    "main.js": "/react-workspaces-playground/static/js/main.7de007e9.chunk.js",
+    "main.js.map": "/react-workspaces-playground/static/js/main.7de007e9.chunk.js.map",
     "runtime~main.js": "/react-workspaces-playground/static/js/runtime~main.85e163ea.js",
     "runtime~main.js.map": "/react-workspaces-playground/static/js/runtime~main.85e163ea.js.map",
     "static/js/2.b7f52e28.chunk.js": "/react-workspaces-playground/static/js/2.b7f52e28.chunk.js",
     "static/js/2.b7f52e28.chunk.js.map": "/react-workspaces-playground/static/js/2.b7f52e28.chunk.js.map",
     "index.html": "/react-workspaces-playground/index.html",
-    "precache-manifest.0068eccb2cb6f18e3b88b20e35e5e9db.js": "/react-workspaces-playground/precache-manifest.0068eccb2cb6f18e3b88b20e35e5e9db.js",
+    "precache-manifest.6af023f47c3437f8e2807f9cfc27e6c0.js": "/react-workspaces-playground/precache-manifest.6af023f47c3437f8e2807f9cfc27e6c0.js",
     "service-worker.js": "/react-workspaces-playground/service-worker.js",
-    "static/css/main.a45bd7a1.chunk.css.map": "/react-workspaces-playground/static/css/main.a45bd7a1.chunk.css.map",
+    "static/css/main.dcfe4c72.chunk.css.map": "/react-workspaces-playground/static/css/main.dcfe4c72.chunk.css.map",
     "static/media/ReactLogo.svg": "/react-workspaces-playground/static/media/ReactLogo.2c813d88.svg",
     "static/media/YarnCat.svg": "/react-workspaces-playground/static/media/YarnCat.42730579.svg"
   }
